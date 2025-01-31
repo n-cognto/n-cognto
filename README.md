@@ -1,9 +1,9 @@
 # 💫 About Me:
 
-Web development
-exploits
-dart and flutter
-database
+Web development,
+exploits,
+dart and flutter,
+database,
 Python
 
 ## 🌐 Socials:
