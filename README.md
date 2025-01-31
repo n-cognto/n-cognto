@@ -2,7 +2,6 @@
 
 Web development
 exploits
-c# 
 dart and flutter
 database
 Python
