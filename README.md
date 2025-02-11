@@ -4,7 +4,8 @@ Web development,
 exploits,
 dart and flutter,
 database,
-Python
+Python,
+C
 
 ## 🌐 Socials:
 
@@ -16,9 +17,9 @@ Python
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=benard00118&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=benard00118&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=benard00118&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=n-cognto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=n-cognto&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=n-cognto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 
@@ -28,7 +29,7 @@ Python
 ## 🏅 GitHub Trophies
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=benard00118&theme=darkhub&column=4&margin-w=15&margin-h=15" 
+    src="https://github-profile-trophy.vercel.app/?username=n-cognto&theme=darkhub&column=4&margin-w=15&margin-h=15" 
     alt="GitHub Trophies" 
     style="max-width: 100%; height: auto;"
   />
@@ -36,12 +37,12 @@ Python
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=benard00118&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=n-cognto&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-[![](https://visitcount.itsvg.in/api?id=benard00118&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=n-cognto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
