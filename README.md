@@ -1,23 +1,29 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=500&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Benard+Karanja!;Cybersecurity+%7C+Red+Teamer+%7C+Full-Stack+Developer;I+Code%2C+Break%2C+and+Secure+Things!;Welcome+to+my+GitHub+world+%F0%9F%94%A5" alt="Typing SVG" />
+</p>
+
+---
+
 # 👨‍💻 About Me
 
-I'm Benard Karanja — a passionate cybersecurity enthusiast, red team operator, and full-stack developer. I love building secure, scalable web applications and exploring system vulnerabilities to understand real-world threats.
+I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team operator**, and **full-stack developer**. I explore real-world vulnerabilities, build secure systems, and constantly evolve in the tech space.
 
 > "I don't just build apps; I secure them."
 
-🔍 Areas of Interest:
-- Offensive Security (Red Teaming, Exploits, Payload Development)
-- Ethical Hacking & Threat Simulation (TryHackMe, Cybershujaa, IBM SkillsBuild)
-- Full-Stack Web Development (Node.js, Django, MySQL, REST APIs)
-- Flutter/Dart Mobile Development
-- AI-Driven Projects (ANN, JS-based simulations)
+### 🔍 Interests
+- Red Teaming & Threat Simulation
+- Offensive Security (Metasploit, Hydra, Payload Crafting)
+- Full-Stack Web Dev (Node.js, Django, SQL, APIs)
+- Flutter & Mobile Dev
+- AI Projects (Neural Networks in JS)
 - Database Design & Administration
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benardkaranja/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ncognto28)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benardkaranja/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ncognto28)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/oranjo254)
 
 ---
@@ -43,12 +49,12 @@ I'm Benard Karanja — a passionate cybersecurity enthusiast, red team operator,
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
-### 📊 Tools & Libraries
+### 📊 Libraries & UI
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
@@ -69,12 +75,6 @@ I'm Benard Karanja — a passionate cybersecurity enthusiast, red team operator,
 
 ---
 
-## 🔝 Top Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=n-cognto&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -83,4 +83,4 @@ I'm Benard Karanja — a passionate cybersecurity enthusiast, red team operator,
 
 [![](https://visitcount.itsvg.in/api?id=n-cognto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly crafted with GPRM (https://gprm.itsvg.in) -->
+<!-- Crafted with passion using GPRM (https://gprm.itsvg.in) -->
