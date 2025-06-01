@@ -84,8 +84,3 @@ I'm Benard Karanja — a passionate cybersecurity enthusiast, red team operator,
 [![](https://visitcount.itsvg.in/api?id=n-cognto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly crafted with GPRM (https://gprm.itsvg.in) -->
-
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
