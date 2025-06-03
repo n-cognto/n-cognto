@@ -1,6 +1,5 @@
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Benard+Karanja!;Cybersecurity+%7C+Red+Teamer+%7C+Full-Stack+Developer;I+Code%2C+Break%2C+and+Secure+Things!;Welcome+to+n-cognto+GitHub+world+%F0%9F%94%A5" alt="Typing SVG" />
-
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=850&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Benard+Karanja!;Cybersecurity+%7C+Red+Teamer+%7C+Full-Stack+Developer;Exploring+Agentic+AI%2C+Transformers+%26+NLP;I+Code%2C+Break%2C+Secure+and+Innovate+Things!;Welcome+to+n-cognto+GitHub+world+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,12 +11,14 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 > "I don't just build apps; I secure them."
 
 ### 🔍 Interests
-- Red Teaming & Threat Simulation
-- Offensive Security (Metasploit, Hydra, Payload Crafting)
-- Full-Stack Web Dev (Node.js, Django, SQL, APIs)
-- Flutter & Mobile Dev
-- AI Projects (Neural Networks in JS)
-- Database Design & Administration
+- Red Teaming & Threat Simulation  
+- Offensive Security (Metasploit, Hydra, Payload Crafting)  
+- Full-Stack Web Dev (Node.js, Django, SQL, APIs)  
+- Agentic AI Systems & Transformers  
+- Model Context Protocols & NLP Workflows  
+- Flutter & Mobile Dev  
+- AI Projects (Neural Networks in JS)  
+- Database Design & Administration  
 
 ---
 
