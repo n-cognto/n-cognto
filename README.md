@@ -58,6 +58,9 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-%234EA8FF.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -76,9 +79,6 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 ![](https://github-readme-stats.vercel.app/api?username=n-cognto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=n-cognto&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=n-cognto&theme=radical&hide_border=false&layout=compact)
-![LangChain](https://img.shields.io/badge/LangChain-%2300A67E.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-%234EA8FF.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 
 ---
@@ -90,13 +90,6 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 </p>
 
 ---
-
----
-
-## 🧪 TryHackMe Progress
-
-[![](https://tryhackme-badges.s3.amazonaws.com/NcogNto.png)](https://tryhackme.com/p/NcogNto)
-
 
 
 ## ✍️ Dev Quote
