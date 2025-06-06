@@ -16,7 +16,7 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 - Full-Stack Web Dev (Node.js, Django, SQL, APIs)  
 - Agentic AI Systems & Transformers  
 - Model Context Protocols & NLP Workflows  
-- Flutter & Mobile Dev  
+- Flutter & Mobile Development  
 - AI Projects (Neural Networks in JS)  
 - Database Design & Administration  
 
