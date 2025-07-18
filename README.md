@@ -34,10 +34,22 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 
 ## 📦 Featured Projects
 
-- 🔐 [**RedOps Toolkit**](https://github.com/n-cognto/redops-toolkit) – Collection of red teaming payloads and automation scripts  
-- 💸 [**ExpenseTracker App**](https://github.com/n-cognto/expense-tracker-nodejs) – Secure Node.js + MySQL personal finance tracker  
-- 🚗 [**NeuroDrive Car AI**](https://github.com/n-cognto/neurodrive-js) – Self-driving JS car sim using neural networks  
-- 🧠 [**Pythopedia**](https://github.com/n-cognto/pythopedia) – Learn Python visually with code breakdowns and logic maps  
+- 🧠 [**Pythopedia**](https://github.com/n-cognto/pythopedia)  
+  Learn Python visually with code breakdowns, logic flows, and hands-on examples. Perfect for beginners and aspiring devs.
+
+- 🦠 [**MalTriage**](https://github.com/n-cognto/MalTriage)  
+  A Python-powered file triaging tool for red teamers and analysts. Analyze, classify, and gain insights on suspicious files like a pro.
+
+- 💸 [**M-PESA Message Parser**](https://github.com/n-cognto/mpesa-message-parser)  
+  Extract transaction insights from M-PESA SMS messages — supports both single and batch parsing modes. Tailored for fintech workflows.
+
+- 📝 [**Easy Letters**](https://github.com/n-cognto/easy-letters)  
+  Automate customized letter writing and delivery. From HR templates to official notices — streamline communication with a single script.
+
+- 🏫 [**CampHub**](https://github.com/n-cognto/camphub)  
+  A digital campus interaction platform built to connect students, streamline announcements, and foster engagement.
+
+
 
 ---
 
