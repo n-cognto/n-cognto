@@ -37,9 +37,6 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 - 🧠 [**Pythopedia**](https://github.com/n-cognto/pythopedia)  
   Learn Python visually with code breakdowns, logic flows, and hands-on examples. Perfect for beginners and aspiring devs.
 
-- 🦠 [**MalTriage**](https://github.com/n-cognto/MalTriage)  
-  A Python-powered file triaging tool for red teamers and analysts. Analyze, classify, and gain insights on suspicious files like a pro.
-
 - 💸 [**M-PESA Message Parser**](https://github.com/n-cognto/mpesa-message-parser)  
   Extract transaction insights from M-PESA SMS messages — supports both single and batch parsing modes. Tailored for fintech workflows.
 
