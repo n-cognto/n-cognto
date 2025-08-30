@@ -32,24 +32,6 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 
 ---
 
-## 📦 Featured Projects
-
-- 🧠 [**Pythopedia**](https://github.com/n-cognto/pythopedia)  
-  Learn Python visually with code breakdowns, logic flows, and hands-on examples. Perfect for beginners and aspiring devs.
-
-- 💸 [**M-PESA Message Parser**](https://github.com/n-cognto/mpesa-message-parser)  
-  Extract transaction insights from M-PESA SMS messages — supports both single and batch parsing modes. Tailored for fintech workflows.
-
-- 📝 [**Easy Letters**](https://github.com/n-cognto/easy-letters)  
-  Automate customized letter writing and delivery. From HR templates to official notices — streamline communication with a single script.
-
-- 🏫 [**CampHub**](https://github.com/n-cognto/camphub)  
-  A digital campus interaction platform built to connect students, streamline announcements, and foster engagement.
-
-
-
----
-
 ## 🤝 Let's Collaborate
 
 I’m open to working on:
