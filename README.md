@@ -15,7 +15,7 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 ## 🎯 My Mission
 
 - Become a top-tier **Cybersecurity Professional** specializing in Red Teaming  
-- Build scalable, secure **full-stack apps** using Django and Node.js  
+- Build scalable, secure **full-stack apps**
 - Push boundaries in **AI and NLP with Agentic systems**  
 - Promote knowledge-sharing across ethical hacking, development, and AI domains
 
