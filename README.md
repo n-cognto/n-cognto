@@ -107,28 +107,6 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
   
 </div>
 
-### AI/NLP Specialization
-
-- Building Agentic AI systems with LangChain and LLM chaining
-- Prompt engineering for token context window optimization
-- Using Hugging Face Transformers for classification, summarization, and Q&A
-- Exploring LLMs and multimodal agents for autonomous decision-making
-
-### Security & Development Interests
-
-- Red Teaming and Threat Simulation
-- Full-Stack Web Development with secure architecture
-- Flutter and Cross-platform Mobile Apps
-- Database Administration and DevOps practices
-
-## Open to Collaboration
-
-I'm interested in working on:
-
-- Offensive security tooling and red team automation
-- Secure, scalable full-stack applications
-- AI/LLM automation projects and agentic systems
-- Cybersecurity mentorship or coaching initiatives
 
 ## GitHub Stats
 
