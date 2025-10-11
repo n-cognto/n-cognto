@@ -12,7 +12,7 @@
 
 ## Skills & Expertise
 
-<div align="center">
+<div align="center" style="transform: scale(0.5); transform-origin: center;">
 
 ### Languages & Core Technologies
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
