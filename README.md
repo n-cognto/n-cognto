@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=850&height=50&lines=Hi%2C+I'm+Benard+Karanja!;Cybersecurity+%7C+Red+Teamer+%7C+Full-Stack+Developer;Exploring+Agentic+AI%2C+Transformers+%26+NLP;I+Code%2C+Break%2C+Secure+and+Innovate+Things!;Welcome+to+n-cognto+GitHub+world" alt="Typing SVG" />
   </p>
 
-  ![Profile Views](https://visitcount.itsvg.in/api?id=n-cognto&icon=0&color=0)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-karanja-ncognto)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212100?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/NcogNto)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ncognto28)
