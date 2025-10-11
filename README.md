@@ -17,14 +17,6 @@ I'm **Benard Karanja** — a passionate **cybersecurity enthusiast**, **red team
 
 > "I don't just build apps; I secure them."
 
-```javascript
-const benardKaranja = {
-  role: "Cybersecurity Professional & Full-Stack Developer",
-  focus: "Red Teaming, Threat Simulation & Secure Application Development",
-  exploring: "Agentic AI, Transformers, NLP & LLM Systems",
-  mission: "Building secure, scalable solutions while breaking things ethically"
-}
-```
 
 ## Mission & Goals
 
