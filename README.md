@@ -113,11 +113,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-cognto&theme=radical&hide_border=false&layout=compact" height="170px"/>
 </div>
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n-cognto&theme=darkhub&column=4&margin-w=15&margin-h=15" />
-</p>
 
 ## Dev Quote
 
