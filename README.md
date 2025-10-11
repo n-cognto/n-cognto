@@ -114,14 +114,6 @@
 </div>
 
 
-## Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
-
 ## Let's Connect
 
 <div align="center">
