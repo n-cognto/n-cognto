@@ -1,11 +1,8 @@
-# Benard Karanja
-
 <div align="center">
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76D57&center=true&vCenter=true&width=850&height=50&lines=Hi%2C+I'm+Benard+Karanja!;Cybersecurity+%7C+Red+Teamer+%7C+Full-Stack+Developer;Exploring+Agentic+AI%2C+Transformers+%26+NLP;I+Code%2C+Break%2C+Secure+and+Innovate+Things!;Welcome+to+n-cognto+GitHub+world" alt="Typing SVG" />
   </p>
-
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benard-karanja-ncognto)
   [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212100?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/NcogNto)
@@ -45,6 +42,7 @@ const benardKaranja = {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
