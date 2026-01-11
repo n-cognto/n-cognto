@@ -66,56 +66,6 @@
 
 </div>
 
-## Areas of Expertise
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/000000/blockchain-technology.png" alt="Blockchain & Web3" width="48"/>
-      <br />
-      <b>Blockchain & Web3</b>
-      <br />
-      Smart contract development with Solidity, dApp architecture, cryptographic protocols, and decentralized systems
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/000000/security-checked.png" alt="Red Teaming" width="48"/>
-      <br />
-      <b>Red Teaming & Offensive Security</b>
-      <br />
-      Threat simulation, vulnerability assessment, smart contract auditing, and payload crafting using industry tools
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Full-Stack Development" width="48"/>
-      <br />
-      <b>Full-Stack Development</b>
-      <br />
-      Building secure, scalable web applications with Node.js, Django, React, SQL, and API integrations
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/64/000000/artificial-intelligence.png" alt="AI & NLP" width="48"/>
-      <br />
-      <b>AI & NLP Research</b>
-      <br />
-      Agentic AI systems, Transformers, LLM chaining, and prompt engineering for autonomous decision-making
-    </td>
-  </tr>
-</table>
-
-## Current Focus
-
-<div align="center">
-  
-  ![Solidity & Web3](https://img.shields.io/badge/Solidity-&%20Web3-363636?style=flat-square&logo=solidity&logoColor=white)
-  ![Smart Contracts](https://img.shields.io/badge/Smart-Contracts-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-  ![Cryptography](https://img.shields.io/badge/Cryptography-Security-00C7B7?style=flat-square&logo=letsencrypt&logoColor=white)
-  ![DeFi](https://img.shields.io/badge/DeFi-Protocols-FF6C37?style=flat-square&logo=ethereum&logoColor=white)
-  ![Agentic AI](https://img.shields.io/badge/Agentic-AI%20Systems-FFDD00?style=flat-square&logo=openai&logoColor=black)
-  ![Red Teaming](https://img.shields.io/badge/Red-Teaming-F76D57?style=flat-square&logo=kalilinux&logoColor=white)
-  
-</div>
-
-
-
 ## GitHub Stats
 
 <div align="center">
