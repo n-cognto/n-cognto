@@ -124,7 +124,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-cognto&theme=radical&hide_border=false&layout=compact" height="170px"/>
 </div>
 
-
+## 📈 GitHub Contribution Chart
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=n-cognto&theme=github-compact&area=true&hide_border=true&custom_title=Contribution%20Graph&bg_color=000000&color=C2FFC7&line=CB9DF0&point=C2FFC7&area_color=CB9DF0" />
+</p>
 
 ## Let's Connect
 
