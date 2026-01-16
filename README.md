@@ -3,13 +3,15 @@
   <h3>Full-Stack Software Engineer | Cybersecurity & Offensive Security</h3>
 
   <p>
-    I build secure, scalable, production-ready systems with security embedded by design.<br>
-    Systems are engineered assuming compromise — resilient, observable, and maintainable under attack.
+    Building secure, scalable, production-ready systems with embedded security controls.<br>
+    Designed assuming compromise — resilient, observable, maintainable under real attack conditions.
   </p>
 
-  <br>
+  <p>
+    <strong>📞 Contact:</strong> +254 113 169 506 | +254 768 588 224
+  </p>
 
-  <!-- Badges row -->
+  <!-- Social badges -->
   <p>
     <a href="https://github.com/n-cognto">
       <img src="https://img.shields.io/badge/GitHub-n--cognto-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -27,7 +29,12 @@
 
   <br>
 
-  <!-- Core tagline -->
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=n-cognto&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-cognto&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="420" />
+
+  <br><br>
+
   <em>Building systems that survive real adversaries</em>
 
   <hr width="60%">
@@ -45,25 +52,25 @@
 
 **Wholesale E-Commerce Platform**  
 *Lead Software Engineer*  
-End-to-end architecture, RBAC, authentication flows, query optimization, security controls, CI/CD & hardening.  
+End-to-end architecture, RBAC, auth flows, query optimization, security hardening, CI/CD.  
 **Stack:** Django · PostgreSQL · Nginx · Docker
 
 **Security Testing & Red Team Environments**  
-Vulnerability research, exploit development, attack chain simulation, mitigation documentation.  
-**Tools:** Kali Linux · Metasploit · Burp Suite · Wireshark · Custom Python tooling
+Vulnerability research, exploit chains, attack simulation, mitigation write-ups.  
+**Tools:** Kali Linux · Metasploit · Burp Suite · Wireshark · Python scripting
 
 ## Technical Stack
 
 <div align="center">
 
-| Category              | Technologies                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| Languages             | Python · TypeScript / JavaScript · Solidity · SQL                           |
-| Backend & APIs        | Node.js / Express · Django · REST & GraphQL                                 |
-| Databases & Infra     | PostgreSQL · Docker · Linux servers · Nginx                                 |
-| Security & Pentest    | Kali Linux · Metasploit · Burp Suite · Wireshark                            |
-| Blockchain            | Ethereum · Solidity · Smart contract auditing                               |
-| AI & Agents           | LangGraph · RAG pipelines · Hugging Face · OpenAI APIs                      |
+| Category            | Technologies                                                                |
+|---------------------|-----------------------------------------------------------------------------|
+| Languages           | Python · TypeScript / JavaScript · Solidity · SQL                           |
+| Backend & APIs      | Node.js / Express · Django · REST & GraphQL                                 |
+| Databases & Infra   | PostgreSQL · Docker · Linux · Nginx                                         |
+| Security & Pentest  | Kali Linux · Metasploit · Burp Suite · Wireshark                            |
+| Blockchain          | Ethereum · Solidity · Smart contract auditing                               |
+| AI & Agents         | LangGraph · RAG pipelines · Hugging Face · OpenAI APIs                      |
 
 </div>
 
@@ -81,6 +88,6 @@ Vulnerability research, exploit development, attack chain simulation, mitigation
 
 <div align="center">
   <hr width="50%">
-  <p><strong>Open to interesting security engineering, backend architecture, or blockchain challenges.</strong></p>
-  <p>Reach out via any of the links above.</p>
+  <p><strong>Open to security engineering, backend architecture, blockchain, or controlled AI challenges.</strong></p>
+  <p>Reach out via LinkedIn, GitHub, or phone.</p>
 </div>
