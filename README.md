@@ -29,24 +29,18 @@ Hands-on environments for vulnerability discovery, exploitation, attack chain si
 
 **Tools:** Metasploit · Burp Suite · Wireshark · Python
 
-### AI Document Analysis Systems
 
-Developed AI-driven systems for controlled document querying and analysis featuring retrieval-augmented generation (RAG), context isolation, access control, and tool-based reasoning workflows.
-
-**Tech Stack:** LangGraph · Hugging Face · OpenAI APIs
-
-### Smart Contracts & Blockchain
-
-Development of secure smart contracts and decentralized application components with focus on secure contract design, gas efficiency, and audit-oriented practices.
-
-**Tech Stack:** Solidity · Hardhat · Ethers.js · OpenZeppelin
 
 ## Technical Skills
 
 **Languages:** Python · JavaScript · TypeScript · Solidity · SQL
+
 **Backend & Web:** Node.js · Express · Django · RESTful APIs
+
 **Infrastructure:** PostgreSQL · Docker · Linux · Nginx
+
 **Security & Blockchain:** Kali Linux · Metasploit · Ethereum
+
 **AI Systems:** LangGraph · RAG pipelines · Hugging Face · OpenAI APIs
 
 ## Connect
