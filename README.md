@@ -30,9 +30,7 @@
   <br>
 
   <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=n-cognto&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n-cognto&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" width="420" />
-
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=n-cognto&theme=radical&hide_border=false" height="150px"/>
   <br><br>
 
   <em>Building systems that survive real adversaries</em>
