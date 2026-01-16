@@ -1,92 +1,63 @@
 # Benard Karanja
 
 **Full-Stack Software Engineer | Cybersecurity & Offensive Security**
-I am a software engineer specializing in building secure, scalable, and production-ready systems. My work focuses on full-stack web development with embedded security controls, informed by hands-on offensive security and adversarial testing experience.
-I design systems with the assumption that they will be attacked and ensure they remain resilient, observable, and maintainable under real-world conditions.
+
+I specialize in building secure, scalable, and production-ready systems with embedded security controls informed by offensive security and adversarial testing experience. I design systems assuming they will be attacked and ensure they remain resilient, observable, and maintainable under real-world conditions.
 
 ---
 
 ## Professional Focus
-* Secure full-stack application development
-* Backend systems and API engineering
-* Offensive security–informed system design
-* Blockchain and smart contract development
-* Applied AI systems with controlled execution and data boundaries
 
----
+- Secure full-stack application development
+- Backend systems and API engineering
+- Offensive security–informed system design
+- Blockchain and smart contract development
+- Applied AI systems with controlled execution and data boundaries
 
 ## Selected Projects
+
 ### Wholesale E-commerce Platform
-**Role:** Lead Software Engineer
-Designed and deployed a production wholesale e-commerce platform from the ground up.
+**Lead Software Engineer**
 
-**Responsibilities**
-* Backend architecture and API development
-* Authentication, authorization, and role-based access control
-* Database design and query optimization
-* Deployment, server configuration, and security hardening
+Designed and deployed a production wholesale e-commerce platform from the ground up, handling backend architecture, authentication, authorization, role-based access control, database design, query optimization, deployment, and security hardening.
 
-**Technology**
-Django, PostgreSQL, Nginx
-
----
+**Tech Stack:** Django · PostgreSQL · Nginx
 
 ### Security Testing & Red Team Labs
-Hands-on environments for security testing and attack simulation.
 
-**Scope**
-* Vulnerability discovery and exploitation
-* Attack chain simulation
-* Defensive recommendations and mitigation documentation
+Hands-on environments for vulnerability discovery, exploitation, attack chain simulation, and defensive recommendations with mitigation documentation.
 
-**Tooling**
-Metasploit, Burp Suite, Wireshark, Python-based tooling
-
----
+**Tools:** Metasploit · Burp Suite · Wireshark · Python
 
 ### AI Document Analysis Systems
-Developed AI-driven systems for controlled document querying and analysis.
-**Key Features**
 
-* Retrieval-augmented generation (RAG)
-* Context isolation and access control
-* Tool-based reasoning workflows
+Developed AI-driven systems for controlled document querying and analysis featuring retrieval-augmented generation (RAG), context isolation, access control, and tool-based reasoning workflows.
 
-**Technology**
-LangGraph, Hugging Face, OpenAI APIs
-
----
+**Tech Stack:** LangGraph · Hugging Face · OpenAI APIs
 
 ### Smart Contracts & Blockchain
-Development of secure smart contracts and decentralized application components.
-**Focus Areas**
 
-* Secure contract design
-* Gas efficiency
-* Audit-oriented development practices
+Development of secure smart contracts and decentralized application components with focus on secure contract design, gas efficiency, and audit-oriented practices.
 
-**Technology**
-Solidity, Hardhat, Ethers.js, OpenZeppelin
-
----
+**Tech Stack:** Solidity · Hardhat · Ethers.js · OpenZeppelin
 
 ## Technical Skills
-**Programming Languages**
-Python, JavaScript, TypeScript, Solidity, SQL
-**Backend & Web**
-Node.js, Express, Django, RESTful APIs
-**Databases & Infrastructure**
-PostgreSQL, Docker, Linux, Nginx
-**Security & Blockchain**
-Kali Linux, Metasploit, Ethereum
-**AI Systems**
-LangGraph, RAG pipelines, Hugging Face, OpenAI APIs
+
+**Languages:** Python · JavaScript · TypeScript · Solidity · SQL
+**Backend & Web:** Node.js · Express · Django · RESTful APIs
+**Infrastructure:** PostgreSQL · Docker · Linux · Nginx
+**Security & Blockchain:** Kali Linux · Metasploit · Ethereum
+**AI Systems:** LangGraph · RAG pipelines · Hugging Face · OpenAI APIs
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-n--cognto-181717?style=flat&logo=github)](https://github.com/n-cognto)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-benard--karanja--ncognto-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/benard-karanja-ncognto)
+[![Credly](https://img.shields.io/badge/Credly-Profile-FF6B00?style=flat&logo=credly)](https://www.credly.com/users/benard-karanja.9b6082af)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-NcogNto-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/r/p/NcogNto)
 
 ---
 
-## Professional Profiles
-
-* GitHub: [https://github.com/n-cognto](https://github.com/n-cognto)
-* LinkedIn: [https://www.linkedin.com/in/benard-karanja-ncognto](https://www.linkedin.com/in/benard-karanja-ncognto)
-* Credly: [https://www.credly.com/users/benard-karanja.9b6082af](https://www.credly.com/users/benard-karanja.9b6082af)
-* TryHackMe: [https://tryhackme.com/r/p/NcogNto](https://tryhackme.com/r/p/NcogNto)
+<div align="center">
+  <i>Building secure systems with offensive security insights</i>
+</div>
