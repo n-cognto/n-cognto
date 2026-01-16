@@ -1,57 +1,86 @@
-# Benard Karanja
+<div align="center">
+  <h1>Benard Karanja</h1>
+  <h3>Full-Stack Software Engineer | Cybersecurity & Offensive Security</h3>
 
-**Full-Stack Software Engineer | Cybersecurity & Offensive Security**
+  <p>
+    I build secure, scalable, production-ready systems with security embedded by design.<br>
+    Systems are engineered assuming compromise — resilient, observable, and maintainable under attack.
+  </p>
 
-I specialize in building secure, scalable, and production-ready systems with embedded security controls informed by offensive security and adversarial testing experience. I design systems assuming they will be attacked and ensure they remain resilient, observable, and maintainable under real-world conditions.
+  <br>
 
----
+  <!-- Badges row -->
+  <p>
+    <a href="https://github.com/n-cognto">
+      <img src="https://img.shields.io/badge/GitHub-n--cognto-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://www.linkedin.com/in/benard-karanja-ncognto">
+      <img src="https://img.shields.io/badge/LinkedIn-Benard%20Karanja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://www.credly.com/users/benard-karanja.9b6082af">
+      <img src="https://img.shields.io/badge/Credly-Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly">
+    </a>
+    <a href="https://tryhackme.com/r/p/NcogNto">
+      <img src="https://img.shields.io/badge/TryHackMe-NcogNto-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+    </a>
+  </p>
 
-## Professional Focus
+  <br>
 
-- Secure full-stack application development
-- Backend systems and API engineering
-- Offensive security–informed system design
-- Blockchain and smart contract development
-- Applied AI systems with controlled execution and data boundaries
+  <!-- Core tagline -->
+  <em>Building systems that survive real adversaries</em>
 
-## Selected Projects
+  <hr width="60%">
+</div>
 
-### Wholesale E-commerce Platform
-**Lead Software Engineer**
+## Focus Areas
 
-Designed and deployed a production wholesale e-commerce platform from the ground up, handling backend architecture, authentication, authorization, role-based access control, database design, query optimization, deployment, and security hardening.
+- Secure full-stack application development  
+- Backend & API architecture  
+- Offensive-security-informed design & hardening  
+- Smart contracts & blockchain systems  
+- Controlled AI pipelines (RAG, agents, bounded execution)
 
-**Tech Stack:** Django · PostgreSQL · Nginx
+## Selected Work
 
-### Security Testing & Red Team Labs
+**Wholesale E-Commerce Platform**  
+*Lead Software Engineer*  
+End-to-end architecture, RBAC, authentication flows, query optimization, security controls, CI/CD & hardening.  
+**Stack:** Django · PostgreSQL · Nginx · Docker
 
-Hands-on environments for vulnerability discovery, exploitation, attack chain simulation, and defensive recommendations with mitigation documentation.
+**Security Testing & Red Team Environments**  
+Vulnerability research, exploit development, attack chain simulation, mitigation documentation.  
+**Tools:** Kali Linux · Metasploit · Burp Suite · Wireshark · Custom Python tooling
 
-**Tools:** Metasploit · Burp Suite · Wireshark · Python
-
-
-
-## Technical Skills
-
-**Languages:** Python · JavaScript · TypeScript · Solidity · SQL
-
-**Backend & Web:** Node.js · Express · Django · RESTful APIs
-
-**Infrastructure:** PostgreSQL · Docker · Linux · Nginx
-
-**Security & Blockchain:** Kali Linux · Metasploit · Ethereum
-
-**AI Systems:** LangGraph · RAG pipelines · Hugging Face · OpenAI APIs
-
-## Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-n--cognto-181717?style=flat&logo=github)](https://github.com/n-cognto)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-benard--karanja--ncognto-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/benard-karanja-ncognto)
-[![Credly](https://img.shields.io/badge/Credly-Profile-FF6B00?style=flat&logo=credly)](https://www.credly.com/users/benard-karanja.9b6082af)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-NcogNto-212C42?style=flat&logo=tryhackme)](https://tryhackme.com/r/p/NcogNto)
-
----
+## Technical Stack
 
 <div align="center">
-  <i>Building secure systems with offensive security insights</i>
+
+| Category              | Technologies                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| Languages             | Python · TypeScript / JavaScript · Solidity · SQL                           |
+| Backend & APIs        | Node.js / Express · Django · REST & GraphQL                                 |
+| Databases & Infra     | PostgreSQL · Docker · Linux servers · Nginx                                 |
+| Security & Pentest    | Kali Linux · Metasploit · Burp Suite · Wireshark                            |
+| Blockchain            | Ethereum · Solidity · Smart contract auditing                               |
+| AI & Agents           | LangGraph · RAG pipelines · Hugging Face · OpenAI APIs                      |
+
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">  
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">  
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity">  
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">  
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">  
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali">  
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" alt="Ethereum">
+  <br><br>
+</div>
+
+<div align="center">
+  <hr width="50%">
+  <p><strong>Open to interesting security engineering, backend architecture, or blockchain challenges.</strong></p>
+  <p>Reach out via any of the links above.</p>
 </div>
