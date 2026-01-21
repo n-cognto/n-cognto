@@ -13,9 +13,6 @@
 
   <!-- Social badges -->
   <p>
-    <a href="https://github.com/n-cognto">
-      <img src="https://img.shields.io/badge/GitHub-n--cognto-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
     <a href="https://www.linkedin.com/in/benard-karanja-ncognto">
       <img src="https://img.shields.io/badge/LinkedIn-Benard%20Karanja-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
