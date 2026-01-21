@@ -38,13 +38,6 @@
   <hr width="60%">
 </div>
 
-## Focus Areas
-
-- Secure full-stack application development  
-- Backend & API architecture  
-- Offensive-security-informed design & hardening  
-- Smart contracts & blockchain systems  
-- Controlled AI pipelines (RAG, agents, bounded execution)
 
 ## Selected Work
 
@@ -53,9 +46,6 @@
 End-to-end architecture, RBAC, auth flows, query optimization, security hardening, CI/CD.  
 **Stack:** Django · PostgreSQL · Nginx · Docker
 
-**Security Testing & Red Team Environments**  
-Vulnerability research, exploit chains, attack simulation, mitigation write-ups.  
-**Tools:** Kali Linux · Metasploit · Burp Suite · Wireshark · Python scripting
 
 ## Technical Stack
 
